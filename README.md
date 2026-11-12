@@ -42,44 +42,44 @@ Laptop/PC, web browser, Visual Studio Code, PHP 8.x, XAMPP/Laragon (Apache).
 
 **Menu utama**
 
-![Menu](<img width="959" height="502" alt="Screenshot 2026-11-12 105008" src="https://github.com/user-attachments/assets/f3215203-de9e-4527-92fc-49457b0dbf71" />
+(<img width="959" height="502" alt="Screenshot 2026-11-12 105008" src="https://github.com/user-attachments/assets/f3215203-de9e-4527-92fc-49457b0dbf71" />
 )
 
 **Latihan 1 — Menjalankan PHP** (kode PHP tidak tampil sebagai teks; browser hanya menerima hasil HTML)
 
-![Latihan 1](<img width="235" height="134" alt="Screenshot 2026-11-12 105021" src="https://github.com/user-attachments/assets/15d23929-24fd-41c1-a355-b7edba5cb250" />
+(<img width="235" height="134" alt="Screenshot 2026-11-12 105021" src="https://github.com/user-attachments/assets/15d23929-24fd-41c1-a355-b7edba5cb250" />
 )
 
 **Latihan 2 — Variabel, operator, percabangan** (nilai akhir Siti 84,90 → predikat B, beserta tabel uji kombinasi nilai)
 
-![Latihan 2](<img width="622" height="375" alt="Screenshot 2026-11-12 105034" src="https://github.com/user-attachments/assets/1a18ea27-a898-4a95-9252-55acbd19ed53" />
+(<img width="622" height="375" alt="Screenshot 2026-11-12 105034" src="https://github.com/user-attachments/assets/1a18ea27-a898-4a95-9252-55acbd19ed53" />
 )
 
 **Latihan 3 — Perulangan dan array** (7 nama ditampilkan dengan foreach)
 
-![Latihan 3](<img width="505" height="279" alt="Screenshot 2026-11-12 105045" src="https://github.com/user-attachments/assets/940e3347-7bbb-4924-a2a5-a9468cc97b35" />
+(<img width="505" height="279" alt="Screenshot 2026-11-12 105045" src="https://github.com/user-attachments/assets/940e3347-7bbb-4924-a2a5-a9468cc97b35" />
 )
 
 **Latihan 4 — Function**
 
-![Latihan 4](<img width="473" height="192" alt="Screenshot 2026-11-12 105114" src="https://github.com/user-attachments/assets/70932991-459d-4193-afcb-a8c81889a0a0" />
+(<img width="473" height="192" alt="Screenshot 2026-11-12 105114" src="https://github.com/user-attachments/assets/70932991-459d-4193-afcb-a8c81889a0a0" />
 )
 
 **Latihan 5 — Form GET.** Sebelum submit, URL belum memiliki parameter. Setelah submit, data terkirim lewat URL (`?kata=budi`) dan dibaca dengan `$_GET`.
 
-![Latihan 5 sebelum](<img width="683" height="221" alt="Screenshot 2026-11-12 105341" src="https://github.com/user-attachments/assets/d5e9c539-02b6-49c5-adba-ea1d9e445bee" />
+(<img width="683" height="221" alt="Screenshot 2026-11-12 105341" src="https://github.com/user-attachments/assets/d5e9c539-02b6-49c5-adba-ea1d9e445bee" />
 )
-![Latihan 5 sesudah](<img width="646" height="270" alt="Screenshot 2026-11-12 105352" src="https://github.com/user-attachments/assets/7be8bb71-370c-4457-8f72-c35461fedf27" />
+(<img width="646" height="270" alt="Screenshot 2026-11-12 105352" src="https://github.com/user-attachments/assets/7be8bb71-370c-4457-8f72-c35461fedf27" />
 )
 
 **Latihan 6 — Form POST.** Data diterima tanpa muncul di URL.
 
-![Latihan 6](<img width="563" height="318" alt="Screenshot 2026-11-12 105648" src="https://github.com/user-attachments/assets/a8259e0d-2eda-4104-9f99-85f2cd2be039" />
+(<img width="563" height="318" alt="Screenshot 2026-11-12 105648" src="https://github.com/user-attachments/assets/a8259e0d-2eda-4104-9f99-85f2cd2be039" />
 )
 
 **Latihan 7 — Pengolahan data sederhana** (Kopi Rp5.000 × 3 = Rp15.000)
 
-![Latihan 7](<img width="767" height="371" alt="Screenshot 2026-11-12 105808" src="https://github.com/user-attachments/assets/05216b96-176a-41d4-8b4e-9823a2414c6f" />
+(<img width="767" height="371" alt="Screenshot 2026-11-12 105808" src="https://github.com/user-attachments/assets/05216b96-176a-41d4-8b4e-9823a2414c6f" />
 )
 
 **Mini Project — Data valid** (ringkasan data mahasiswa tampil)
