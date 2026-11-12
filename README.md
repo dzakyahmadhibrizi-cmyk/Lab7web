@@ -88,8 +88,10 @@ Laptop/PC, web browser, Visual Studio Code, PHP 8.x, XAMPP/Laragon (Apache).
 
 **Eksperimen Mandiri — Pencarian nama (GET).** Kata "Budi" tidak ada di array sehingga hasilnya "Tidak ditemukan"; kata "Alya" ditemukan.
 
-![Eksperimen tidak ditemukan](screenshots/eksperimen_tidak_ditemukan.png)
-![Eksperimen ditemukan](screenshots/eksperimen_ditemukan.png)
+![Eksperimen tidak ditemukan](<img width="683" height="333" alt="Screenshot 2026-11-12 110036" src="https://github.com/user-attachments/assets/577ccaef-1810-4d48-b8ec-a87772c6cd7c" />
+)
+![Eksperimen ditemukan](<img width="664" height="470" alt="Screenshot 2026-11-12 110256" src="https://github.com/user-attachments/assets/3d90df90-8806-4534-9765-8cd6faa7ecbb" />
+)
 
 ## Kasus Uji Mini Project
 **Valid**
