@@ -84,13 +84,14 @@ Laptop/PC, web browser, Visual Studio Code, PHP 8.x, XAMPP/Laragon (Apache).
 
 **Mini Project — Data valid** (ringkasan data mahasiswa tampil)
 
-![Mini Project valid](screenshots/mini_project_valid.png)
+(<img width="596" height="467" alt="Screenshot 2026-11-12 105934" src="https://github.com/user-attachments/assets/3b1a72d6-5621-4912-8215-33fdfa5de4e2" />
+)
 
 **Eksperimen Mandiri — Pencarian nama (GET).** Kata "Budi" tidak ada di array sehingga hasilnya "Tidak ditemukan"; kata "Alya" ditemukan.
 
-![Eksperimen tidak ditemukan](<img width="683" height="333" alt="Screenshot 2026-11-12 110036" src="https://github.com/user-attachments/assets/577ccaef-1810-4d48-b8ec-a87772c6cd7c" />
+(<img width="683" height="333" alt="Screenshot 2026-11-12 110036" src="https://github.com/user-attachments/assets/577ccaef-1810-4d48-b8ec-a87772c6cd7c" />
 )
-![Eksperimen ditemukan](<img width="664" height="470" alt="Screenshot 2026-11-12 110256" src="https://github.com/user-attachments/assets/3d90df90-8806-4534-9765-8cd6faa7ecbb" />
+(<img width="664" height="470" alt="Screenshot 2026-11-12 110256" src="https://github.com/user-attachments/assets/3d90df90-8806-4534-9765-8cd6faa7ecbb" />
 )
 
 ## Kasus Uji Mini Project
