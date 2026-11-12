@@ -1,6 +1,6 @@
 # Lab7Web_PHP — Praktikum 7: Pemrograman Server-Side dengan PHP
 
-**Nama:** (isi nama)  **NIM:** (isi NIM)  **Kelas:** (isi kelas)
+**Nama:** (Dzaky Ahmad Hibrizi)  **NIM:** (312510471)  **Kelas:** (I251D)
 
 ## Tujuan
 Memahami pemrosesan server-side dengan PHP: sintaks, variabel, function, pemrosesan form (GET/POST),
